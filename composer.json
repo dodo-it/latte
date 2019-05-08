@@ -20,10 +20,10 @@
     "latte/latte": "~2.4.4 || ~2.5.1"
   },
   "require-dev": {
-    "ninjify/qa": "^0.8.0",
+    "ninjify/qa": "^0.9.0",
     "ninjify/nunjuck": "^0.2.0",
-    "nette/application": "~2.4.6",
-    "nette/di": "~2.4.12",
+    "nette/application": "~2.4.6 || 3.0",
+    "nette/di": "~2.4.12 || 3.0",
     "phpstan/phpstan-shim": "^0.11",
     "phpstan/phpstan-deprecation-rules": "^0.11",
     "phpstan/phpstan-nette": "^0.11",
